@@ -1,0 +1,10 @@
+html, body, .toolbar .title, .jstree-brackets li a, .jstree-brackets li a:hover, .toolbar .nav .dropdown-toggle, .context-menu .dropdown-toggle, .codehint-menu .dropdown-toggle {
+    font-smoothing: antialiased !important;
+    font-family: 'Ubuntu';
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    text-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+    text-rendering: geometricPrecision;
+}
+
