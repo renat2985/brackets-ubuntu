@@ -4,10 +4,10 @@
     "description": "This extension makes Brackets more Ubuntu friendly. Based on Bolder Menu Fonts by Mark Simulacrum <mark.simulacrum@gmail.com>.",
     "version": "0.9.1",
     "author": "Final Development Studio <sorcery@finaldevstudio.com>",
-    "homepage": "https://github.com/FinalDevStudio/Brackets-Ubuntu",
+    "homepage": "https://github.com/FinalDevStudio/brackets-ubuntu",
     "repository": {
         "type": "git",
-        "url": "git://github.com/FinalDevStudio/Brackets-Ubuntu.git"
+        "url": "git://github.com/FinalDevStudio/Brackets-ubuntu.git"
     },
     "engines": {
         "brackets": ">=0.36.0"
